@@ -156,3 +156,8 @@ header {
   }
   
 }
+
+.celular-logo {
+  display: flex;
+  margin-top: auto;
+}
